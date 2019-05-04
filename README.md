@@ -1,12 +1,12 @@
 ## Welcome to Ukraine!
 
-Here you can find out a lot of interesting things about Ukraine beginning with its history and ending with the most beautiful places.
+Here you can find out a lot of interesting things about Ukraine beginning with its history and ending with the most beautiful places you can visit.
 
 
 
-### Markdown
+### General History
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The history of Ukraine is very interesting and in the same time it's very difficult and painful.
 
 ```markdown
 Syntax highlighted code block
