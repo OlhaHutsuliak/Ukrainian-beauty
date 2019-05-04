@@ -8,7 +8,7 @@ Here you can find out a lot of interesting things about Ukraine beginning with i
 
 The history of Ukraine is very interesting and in the same time it's very difficult and painful.
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
