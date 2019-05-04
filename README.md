@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Ukraine!
 
-You can use the [editor on GitHub](https://github.com/OlhaHutsuliak/Ukrainian-beauty/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can find out a lot of interesting things about Ukraine beginning with its history and ending with the most beautiful places.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
